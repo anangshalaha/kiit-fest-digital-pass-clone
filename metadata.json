@@ -1,0 +1,5 @@
+{
+  "name": "KIIT Fest Digital Pass",
+  "description": "A digital pass and event management portal clone for KIIT Fest, featuring access passes, entry protocols, and participant profiles.",
+  "requestFramePermissions": []
+}
